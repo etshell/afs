@@ -12,44 +12,10 @@ Primary use:
 [ FONT ]*/
 
 @font-face {
-  font-family: Poppins-Regular;
-  src: url('../fonts/Poppins/Poppins-Regular.ttf'); 
+  font-family: LibreBaskerville-Italic;
+  src: url('../fonts/LibreBaskerville-Italic.ttf'); 
 }
 
-@font-face {
-  font-family: Poppins-Bold;
-  src: url('../fonts/Poppins/Poppins-Bold.ttf'); 
-}
-
-@font-face {
-  font-family: Poppins-Thin;
-  src: url('../fonts/Poppins/Poppins-Thin.ttf'); 
-}
-
-@font-face {
-  font-family: Poppins-Black;
-  src: url('../fonts/Poppins/Poppins-Black.ttf'); 
-}
-
-@font-face {
-  font-family: Poppins-Medium;
-  src: url('../fonts/Poppins/Poppins-Medium.ttf'); 
-}
-
-@font-face {
-  font-family: PlayfairDisplay-Italic;
-  src: url('../fonts/PlayfairDisplay/PlayfairDisplay-Italic.ttf'); 
-}
-
-@font-face {
-  font-family: PlayfairDisplay-BlackItalic;
-  src: url('../fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.ttf'); 
-}
-
-@font-face {
-  font-family: PlayfairDisplay-Bold;
-  src: url('../fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf'); 
-}
 
 
 /*//////////////////////////////////////////////////////////////////
@@ -110,7 +76,7 @@ Primary use:
   right: 82px;
   pointer-events: none;
 
-  font-family: Poppins-Medium;
+  font-family: LibreBaskerville-Italic;
   color: #c80000;
   font-size: 14px;
   line-height: 1.4;
